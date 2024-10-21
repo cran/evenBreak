@@ -1,0 +1,46 @@
+---
+title: "evenBreak"
+author: Barry Zeeberg [aut, cre]
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{evenBreak}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+<style>
+body {
+text-align: justify;
+font-size: 16pt;
+font-family: Times;}
+</style>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Barry
+Zeeberg<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>barryz2013@gmail.com<o:p></o:p></span></b></p><br>
+
+We quantitatively evaluated the assertion that says if one suit is found to
+be evenly distributed among the 4 players, the rest of the suits are more
+likely to be evenly distributed. Our mathematical analyses show that, if
+one suit is found to be evenly distributed, then a second suit has a slightly
+elevated probability (ranging between 10% to 15%) of being evenly
+distributed. If two suits are found to be evenly distributed, then a third suit
+has a substantially elevated probability (ranging between 30% to 50%) of
+being evenly distributed. The probabilities for more unbalanced
+distributions decrease in similar proportion, but these probabilities are
+quite low to start with, so the further decreases may only rarely be of
+practical significance.
+
+The full manuscript is available in the inst/pdf folder.
+

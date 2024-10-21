@@ -1,0 +1,11 @@
+159f8c0cc92bf1baced7cf8ee670db5a *DESCRIPTION
+158ad4227a4839f35cf2d933f0f8309b *NAMESPACE
+e9bfb03c75f8ccce76837896c3d757c3 *R/evenBreak.R
+2477b585da116cfea1ddda7d96ff30eb *build/vignette.rds
+ab410cf0b21dc2b62dd92643c71372a2 *inst/doc/evenBreak.Rmd
+1ab09cf543d838a7c0452b64ca3b3d43 *inst/doc/evenBreak.html
+9684ef516ec83c73e57eb1df16fbda67 *inst/pdf/Even_split.pdf
+2557491999dc3ac1abfa48bf7803abcc *man/compareProbs.Rd
+416a1886941e868a246a4f7904acbe72 *man/evenBreak.Rd
+76fe4b602eae1a87af2c58973e0b2b07 *man/evenBreakDriver.Rd
+ab410cf0b21dc2b62dd92643c71372a2 *vignettes/evenBreak.Rmd
